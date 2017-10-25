@@ -1,0 +1,40 @@
+
+
+body {
+  background-image: url("Manning.jpg");
+  background-color: #cccccc;
+  background-attachment: fixed;
+}
+
+h1 {
+  background-color: grey;
+
+}
+
+h2 {
+  background-color: grey;
+}
+
+.pp {
+
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+
+}
+
+.ppp {
+
+padding: 10px;
+margin: 10px;
+  background-color: grey;
+}
+@media screen and (max-width 1950) {
+.maho {
+  max-width: 400px;
+  max height: 800px;
+
+
+}
+
+}
